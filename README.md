@@ -1,2 +1,2 @@
 # food-arena
-A food website that blogs about Nigerian delicacies
+A food Blog built with html, css and vanilla javascript.
