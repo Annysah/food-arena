@@ -1,6 +1,6 @@
 @media (max-width: 700px) {
     .left-bar {
-        display: none;
+        display: block;
     }
 
     .nav-bar {
